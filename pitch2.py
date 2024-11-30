@@ -7,7 +7,7 @@ from langchain.prompts import ChatPromptTemplate
 from langchain_community.llms import HuggingFaceHub
 from langchain_huggingface import HuggingFaceEndpoint
 
-aai.settings.api_key = "b0dfc0edced34ce9bb210aeb10cc8f87"
+aai.settings.api_key = "api_key"
 
 
 st.title("Audio Detection and Caption")
